@@ -1,0 +1,9 @@
+{
+		"name": "remote-auth",
+		"readable": "Remote Auth",
+		"version": "1.0",
+		"stable": true,
+		"description": "Use Twitter or GitHub OAuth login",
+		"author": "Sebastian Müller",
+		"url": "http://sbstjn.com"
+}
