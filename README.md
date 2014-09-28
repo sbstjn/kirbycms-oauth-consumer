@@ -1,6 +1,6 @@
 # Remote Auth Plugin for Kirby CMS
 
-Let users authenticate on your Kirby installation using Twitter or GitHub OAuth.
+Remote Auth is Kirby CMS plugin for adding a "Login with Twitter" and "Login with GitHub" button to your website. Let your users authenticate them using Twitter or GitHub OAuth.
 
 ## Installation
 
@@ -30,3 +30,10 @@ Remote Auth uses TwitterOAuth by [Abraham Williams](abraham@abrah.am).
 ## License
 
 [MIT License](http://opensource.org/licenses/MIT)
+
+## Copyright
+
+2014 Sebastian Müller
+
+[sbstjn.com](http://sbstjn.com)
+[@sbstjn at twitter](https://twitter.com/sbstjn)
